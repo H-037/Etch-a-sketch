@@ -19,5 +19,9 @@ body{
     height: 6.25%;
     width: 6.25%;
     background-color: rgb(173, 87, 87);
-    color:aqua;
+}
+
+button{
+    height: 50px;
+    width: 100px;
 }
