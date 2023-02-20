@@ -16,12 +16,6 @@ body{
     flex-wrap: wrap;
 }
 
-.box{
-    height: 6.25%;
-    width: 6.25%;
-    background-color: rgb(231, 225, 225);
-}
-
 #settings{
     display: flex;
     margin-bottom: 50px;
