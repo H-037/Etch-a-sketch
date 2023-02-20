@@ -1,0 +1,23 @@
+body{
+    height: 100vh;
+    weight: 100vh;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    height: 480px;
+    width: 480px;
+    background-color: rgb(49, 48, 48);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box{
+    height: 6.25%;
+    width: 6.25%;
+    background-color: rgb(173, 87, 87);
+    color:aqua;
+}
